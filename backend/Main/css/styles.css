@@ -14,3 +14,22 @@
     font-size: 30;
     text-align: center;
 }
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.font-explore{
+    font-size: 30px;
+}
+.divcentre{
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+}
+.aclass{
+    
+    margin: 10px;
+}
+body{
+    background-color: rgb(174, 184, 133);
+}
